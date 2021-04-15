@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Syouki-d
+- 👀 I’m interested in JavaScript,and now I'm looking for a web devolopment job. 
+- 🌱 I’m currently learning  you don't know js and Professional JavaScript for Web Developers.
+- 📫 How to reach me?  This my email address dongshangqi@foxmail.com
